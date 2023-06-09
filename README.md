@@ -14,6 +14,7 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 - Web: JS/TS, Node, Vue, React, Nuxt, Next
 - Salesforce: LWC, Apex, Aura, Visualforce, SQL/SOQL
 - Platforms: Firebase, Supabase, Google Cloud, AWS, OpenAI
+- Mobile: iOS, Android, Ionic, Capacitor, AppFlow
 - AI: Chat GPT, Google Bard
 
 #### About me:
