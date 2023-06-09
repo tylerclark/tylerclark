@@ -9,6 +9,7 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 - Umbrella Vet [umbrella.vet](https://umbrella.vet)
 - Tailjoy [tailjoy.co](https://tailjoy.co)
 - Boat Meetup [boatmeetup.com](https://boatmeetup.com)
+- GF Utils [gfutils.com](https://gfutils.com)
 
 #### Skills:
 - Web: JS/TS, Node, Vue, React, Nuxt, Next
@@ -18,6 +19,6 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 - AI: Chat GPT, Google Bard
 
 #### About me:
-- Father of 1
+- Father
 - Engaged to Prizzle
 - Pro efoiler
