@@ -1,4 +1,3 @@
-![github_bg](https://github.com/tylerclark/tylerclark/assets/1594246/3f44b0bf-45c2-4775-880a-04f91600884a)
 ### Howdy 🤠
 As an experienced software architect and engineering leader, I bring a passion for developing complex applications for both web and mobile platforms. With a strong focus on user experience and performance, I thrive on solving technical challenges and designing solutions that exceed expectations.
 
