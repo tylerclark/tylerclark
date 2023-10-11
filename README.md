@@ -5,18 +5,17 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 
 #### Recent work:
 - Jetfoiler: [iOS](https://apps.apple.com/us/app/jetfoiler/id1555588917) - [Android](https://play.google.com/store/apps/details?id=com.kaiconcepts.Jetfoiler)
-- Umbrella AI: [app.umbrella.vet/ai](https://app.umbrella.vet/ai)
 - Umbrella Vet: [umbrella.vet](https://umbrella.vet) - [iOS](https://apps.apple.com/us/app/umbrella-vet-care-on-demand/id1622284281) - [Android](https://play.google.com/store/apps/details?id=com.umbrella.vet)
 - Tailjoy: [tailjoy.co](https://tailjoy.co)
 - Boat Meetup: [boatmeetup.com](https://boatmeetup.com)
 - GF Utils: [gfutils.com](https://gfutils.com)
 
 #### Skills:
-- Web: JS/TS, Node, Vue, React, Nuxt, Next
+- Web: JS/TS, Node, Vue, React, Nuxt, Next, Python
 - Salesforce: LWC, Apex, Aura, Visualforce, SQL/SOQL
 - Platforms: Firebase, Supabase, Google Cloud, AWS, OpenAI
 - Mobile: iOS, Android, Ionic, Capacitor, AppFlow
-- AI: Chat GPT, Google Bard
+- AI: Chat GPT, Google Bard, Langchain, Vector Stores
 
 #### About me:
 - Father
