@@ -19,5 +19,5 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 
 #### About me:
 - Father
-- Engaged to Prizzle
+- Married to Prizzle
 - Pro efoiler
