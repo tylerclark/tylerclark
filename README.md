@@ -15,7 +15,7 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 - Salesforce: LWC, Apex, Aura, Visualforce, SQL/SOQL
 - Platforms: Firebase, Supabase, Google Cloud, AWS, OpenAI
 - Mobile: iOS, Android, Ionic, Capacitor, AppFlow
-- AI: Chat GPT, Google Bard, Langchain, Vector Stores
+- AI: OpenAI, Bard, Huggingface, Llama, function calling, Embeddings and vector stores, fine tuning, text-to-speech (TTS), Speech to text (STT), assistants, GPTs.
 
 #### About me:
 - Father
