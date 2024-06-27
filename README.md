@@ -4,7 +4,9 @@ As an experienced software architect and engineering leader, I bring a passion f
 Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark.com)
 
 #### Recent work:
-- Umbrella Vet: [umbrella.vet](https://umbrella.vet) - [iOS](https://umbrella.vet/ios) - [Android](https://umbrella.vet/android)
+- Umbrella AI:
+   - Umbrella Notes: [umbrellanotes.com](https://umbrellanotes.com)
+   - Umbrella Vet: [umbrella.vet](https://umbrella.vet) - [iOS](https://umbrella.vet/ios) - [Android](https://umbrella.vet/android)
 - Jetfoiler: [iOS](https://apps.apple.com/us/app/jetfoiler/id1555588917) - [Android](https://play.google.com/store/apps/details?id=com.kaiconcepts.Jetfoiler)
 - Tailjoy: [tailjoy.co](https://tailjoy.co)
 - Boat Meetup: [boatmeetup.com](https://boatmeetup.com)
