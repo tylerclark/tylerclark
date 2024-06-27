@@ -10,7 +10,6 @@ Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark
 - Jetfoiler: [iOS](https://apps.apple.com/us/app/jetfoiler/id1555588917) - [Android](https://play.google.com/store/apps/details?id=com.kaiconcepts.Jetfoiler)
 - Tailjoy: [tailjoy.co](https://tailjoy.co)
 - Boat Meetup: [boatmeetup.com](https://boatmeetup.com)
-- GF Utils: [gfutils.com](https://gfutils.com)
 
 #### Skills:
 - Web: JS/TS, Node, Vue, React, Nuxt, Next, Python
