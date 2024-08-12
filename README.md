@@ -1,4 +1,4 @@
-### Howdy 🤠 I am currently open to work!
+### Howdy 🤠
 As an experienced software architect and engineering leader, I bring a passion for developing complex applications for both web and mobile platforms. With a strong focus on user experience and performance, I thrive on solving technical challenges and designing solutions that exceed expectations.
 
 Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark.com)
