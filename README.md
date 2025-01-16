@@ -1,9 +1,10 @@
 ### Howdy 🤠
-As an experienced software architect and engineering leader, I bring a passion for developing complex applications for both web and mobile platforms. With a strong focus on user experience and performance, I thrive on solving technical challenges and designing solutions that exceed expectations.
+Former lead engineer and architect at Salesforce, the New York Times, and SurveyMonkey. I'm a full-stack developer and lover of frontend and backend systems. This expertise allows me to create websites, web apps and mobile apps from start to finish with precision and scalability. I've been featured in prominent publications such as the [Business Journal](https://www.bizjournals.com/tampabay/inno/stories/profiles/2023/10/24/veterinary-medtech-ai-company.html) and [USA Today](https://www.usatoday.com/story/special/contributor-content/2023/10/19/from-silicon-valley-to-pet-care-umbrella-ai-vision-for-ai-infused-vet-care/71242317007/) and has appeared on [ABC](https://www.abcactionnews.com/news/region-hillsborough/tampa-tech-pro-creates-app-that-connects-pet-owners-with-live-veterinarians) and Fox affiliates.
 
-Be sure to check out my portfolio website at [tylerclark.com](https://tylerclark.com)
+Be sure to check out my personal portfolio at [tylerclark.com](https://tylerclark.com) and my company website at [clarkinteractive.com](https://clarkinteractive.com).
 
 #### Recent work:
+- Clark Interactive: [clarkinteractive.com](https://clarkinteractive.com)
 - Umbrella AI:
    - Umbrella Notes: [umbrellanotes.com](https://umbrellanotes.com)
    - Umbrella Vet: [umbrella.vet](https://umbrella.vet) - [iOS](https://umbrella.vet/ios) - [Android](https://umbrella.vet/android)
