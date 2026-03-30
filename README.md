@@ -25,5 +25,4 @@ Oh! Be sure to check out my personal portfolio at [tylerclark.com](https://tyler
 
 #### About me:
 - Father
-- Married to Prizzle
 - Pro efoiler
