@@ -8,7 +8,13 @@ Former lead engineer and architect at Salesforce, the New York Times, and Survey
 Oh! Be sure to check out my personal portfolio at [tylerclark.com](https://tylerclark.com)
 
 #### Recent work:
+- Reunionsoft: [reunionsoft.com](https://reunionsoft.com)
+- MDside AI: [mdside.ai](https://mdside.ai)
+- BeFound: [befound.dev](https://befound.dev)
+- Optain Platform: [optain.co](https://optain.co) 
+- TimeTracker.dev: [timetracker.dev](https://timetracker.dev) 
 - Clarky: [clarky.ai](https://clarky.ai)
+- Clarky Email: [clarky.email](https://clarky.email)
 - Clark Interactive: [clarkinteractive.com](https://clarkinteractive.com)
 - Previous startup: Umbrella AI: [umbrella.ai](https://umbrella.ai)
 - Previous startup: Umbrella Vet: [umbrella.vet](https://umbrella.vet)
