@@ -8,8 +8,10 @@ Former lead engineer and architect at Salesforce, the New York Times, and Survey
 Oh! Be sure to check out my personal portfolio at [tylerclark.com](https://tylerclark.com)
 
 #### Recent work:
+- Resume.buzz: [resume.buzz](https://resume.buzz) (open source project for job seekers)
 - Reunionsoft: [reunionsoft.com](https://reunionsoft.com)
 - MDside AI: [mdside.ai](https://mdside.ai)
+- Eager Meds (powered by MDside AI): [eagermeds.com](https://eagermeds.com)
 - BeFound: [befound.dev](https://befound.dev)
 - Optain Platform: [optain.co](https://optain.co) 
 - TimeTracker.dev: [timetracker.dev](https://timetracker.dev) 
